@@ -24,6 +24,7 @@ Simple state-pattern implmentiotion applied on the case of a Todo App API servic
 ### Clonning & Running the project:
 - First thing obviously clone the repo locally.
 ```
+https://github.com/elmahdy-intake37/ayen-task-2.git
 ```
 
 - Create a virtual envirnoment for the project the standard `venv` module is prefered.
